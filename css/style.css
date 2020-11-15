@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?familly=Kaushan+Script");
+
+:root{
+
+    --mainPurple:#a63dc2;
+    --mainYellow:rgb(249,228,148);
+    --mainWhite:#fff;
+    --mainBlack:rgb(68, 57, 57);
+    --yellowTrans:rgba(180, 180, 170, 0.5);
+    --mainGrey:rgb(238,238,238);
+    
+}
+
+body{
+font-family: "KaushanScript", cursive;
+background: var(--mainWhite);
+color: var(--mainBlack);
+    
+}
+/*GLOBAL STYLES*/
